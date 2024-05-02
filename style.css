@@ -125,6 +125,10 @@ main{
     display: flex;
     flex-direction: column;
 }
+
+.card img{
+    border-radius: 5%;
+}
 .avatar img{
     height: 36px;
     width: 36px;
